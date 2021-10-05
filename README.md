@@ -1,6 +1,6 @@
 ![MDB Logo](https://mdbootstrap.com/img/Marketing/general/logo/medium/mdb-r.png)
 
-# MDB 5 Webpack Starter
+# MDB 5 Webpack Starter 1231231312
 
 ### Webpack boilerplate for Bootstrap 5 & Material Design 2.0 UI Kit
 
